@@ -1,0 +1,3 @@
+[27-Apr-2020 09:22:49 Etc/GMT] PHP Notice:  Undefined variable: usedmanadequate in /home/aleppycollector/public_html/pr/serviceHospitalFacilityInUse.php on line 70
+[28-Apr-2020 13:11:01 Etc/GMT] PHP Notice:  Undefined index: txtUsername in /home/aleppycollector/public_html/pr/serviceLogin.php on line 4
+[28-Apr-2020 13:11:01 Etc/GMT] PHP Notice:  Undefined index: txtPassword in /home/aleppycollector/public_html/pr/serviceLogin.php on line 5
